@@ -1,0 +1,57 @@
+C:\Users\Segor\Desktop\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.exe
+C:\Users\Segor\Desktop\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.deps.json
+C:\Users\Segor\Desktop\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.runtimeconfig.json
+C:\Users\Segor\Desktop\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.dll
+C:\Users\Segor\Desktop\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.pdb
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa_MarkupCompile.cache
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.g.resources
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.AssemblyInfo.cs
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.dll
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\refint\Sebasa.dll
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.pdb
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.genruntimeconfig.cache
+C:\Users\Segor\Desktop\Sebasa\Sebasa\obj\Debug\net8.0-windows\ref\Sebasa.dll
+E:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.exe
+E:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.deps.json
+E:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.runtimeconfig.json
+E:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.dll
+E:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.pdb
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\MainWindow.baml
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\App.g.cs
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa_MarkupCompile.cache
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.g.resources
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.AssemblyInfoInputs.cache
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.AssemblyInfo.cs
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.csproj.CoreCompileInputs.cache
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.dll
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\refint\Sebasa.dll
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.pdb
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.genruntimeconfig.cache
+E:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\ref\Sebasa.dll
+D:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.exe
+D:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.deps.json
+D:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.runtimeconfig.json
+D:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.dll
+D:\ОП\Практика №13\Sebasa\Sebasa\bin\Debug\net8.0-windows\Sebasa.pdb
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\App.g.cs
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa_MarkupCompile.cache
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.g.resources
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.AssemblyInfoInputs.cache
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.AssemblyInfo.cs
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.dll
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\refint\Sebasa.dll
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.pdb
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\Sebasa.genruntimeconfig.cache
+D:\ОП\Практика №13\Sebasa\Sebasa\obj\Debug\net8.0-windows\ref\Sebasa.dll
